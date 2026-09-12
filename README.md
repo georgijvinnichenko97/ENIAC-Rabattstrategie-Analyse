@@ -1,7 +1,7 @@
 # ENIAC Rabattstrategie – Analyse
 Eine datenbasierte Untersuchung der Auswirkungen von Rabatten auf die E-Commerce-Performance von ENIAC.
 
-🎯## Projektübersicht
+ Projektübersicht
 Dieses Repository enthält die Analyse des zweiten Datenprojekts von ENIAC. Ziel ist es zu untersuchen, ob Rabatte das nachhaltige Unternehmenswachstum unterstützen oder sich negativ auf Umsatz und Margen auswirken. 
 
 Im Zentrum steht eine interne Diskussion zwischen dem Marketing-Team, das Rabatte als Mittel zur Kundengewinnung, -zufriedenheit und -bindung betrachtet, und den Investoren im Vorstand, die kritisch hinterfragen, ob zu hohe Rabatte die angestrebte Positionierung des Unternehmens im Qualitätssegment gefährden.
