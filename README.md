@@ -24,7 +24,7 @@ Die Analyse verwendet vier CSV-Dateien:
 | **`products.csv`** | Produktkatalog mit SKU, Name, Beschreibung, Basispreis, Aktionspreis, Lagerstatus und Produkttyp. |
 | **`brands.csv`** | Zuordnung zwischen dreistelligen Markencodes und Markennamen. |
 
-## Ergebnisse der Explorativen Analyse & Datenbereinigung
+📂## Ergebnisse der Explorativen Analyse & Datenbereinigung
 Die explorative Phase zeigte erhebliche Probleme bei Datenqualität und Konsistenz. Diese Erkenntnisse haben die Bereinigungsstrategie maßgeblich beeinflusst. Die oberste Regel lautete: **Erhalt realer Verkaufsinformationen** vor der aggressiven Entfernung ungewöhnlicher Beobachtungen.
 
 ### `orders.csv`
