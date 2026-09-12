@@ -96,3 +96,18 @@ eniac-rabattstrategie/
 │   └── umsatz_vs_rabatt.png
 └── presentation/
     └── ENIAC_Rabattstrategie_Vorstandspraesentation.pdf
+```
+
+## Team und Zusammenarbeit
+**ENIAC Data Analytics Team:** Georgij Vinnichenko, Navid Modir Khazeni, Mehrnoosh Mohebi Damabi.
+
+Das Projekt wurde von Beginn an im Team durchgeführt. Jedes Mitglied führte explorative Analysen zunächst eigenständig durch. In Teambesprechungen wurden die Lösungsansätze verglichen, diskutiert und die jeweils robusteste Methode für das finale Notebook ausgewählt.
+
+## Limitationen
+* **Datenmenge:** Der Datensatz umfasst nur einen Jahreszyklus.
+* **Fehlende Margen:** Ohne Kostendaten misst die Analyse reinen Umsatz, nicht den Gewinn.
+* **Kausalität:** Ein ursächlicher Zusammenhang zwischen Rabatten und Verkaufsspitzen ist plausibel, statistisch aber durch diesen Datensatz allein nicht zweifelsfrei kausal belegt.
+* **Beschädigte Originaldaten:** Das Fehlen verwertbarer `promo_price`-Werte machte eine indirekte Rekonstruktion notwendig.
+
+---
+**Lizenz:** Dieses Projekt dient ausschließlich Bildungszwecken.
