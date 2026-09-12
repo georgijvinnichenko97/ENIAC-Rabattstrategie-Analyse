@@ -49,13 +49,13 @@ Die ursprüngliche `type`-Spalte war numerisch und schwer interpretierbar. Eine 
 * **Ziel:** Die Identifikation der 5 umsatzstärksten Kategorien (ca. 55 % des Gesamtumsatzes).
 * **Heterogenität:** Jede Kategorie umfasst Einstiegs- bis High-End-Modelle, was die Pauschalisierung von Rabatten auf Kategorie-Ebene verhindert.
 
-## Wichtige Ergebnisse
+❗## Wichtige Ergebnisse
 * **Rabatte sind die Norm:** 91 % der Artikel wurden unter Katalogpreis verkauft (durchschnittlich 22,5 % Rabatt). Nur 9 % erzielten den vollen Preis.
 * **Saisonalität schlägt Rabatthöhe:** Der Black Friday erzeugte einen extremen Peak (ca. das Zehnfache eines normalen Tages). Das Weihnachtsgeschäft stieg langsamer, aber anhaltender. Der Black Friday zieht vermutlich klassische Weihnachtskäufe vor.
 * **Umsatzkonzentration:** iMac und iPhone dominieren den Umsatz.
 * **Rabatt ≠ Umsatztreiber:** iMacs generieren höchsten Umsatz bei niedrigen Rabatten. Tablets haben hohe Rabatte, aber niedrigen Umsatzanteil.
 
-❗ Empfehlungen
+ Empfehlungen
 1. **Promotions fokussieren:** Rabattaktionen auf Black Friday und die Vorweihnachtszeit beschränken, anstatt sie ganzjährig zu streuen.
 2. **Margen in Premium-Kategorien schützen:** Aggressive Rabatte auf Selbstläufer wie iMac und iPhone reduzieren, da diese sich auch bei niedrigeren Rabatten hervorragend verkaufen.
 3. **Datenqualität verbessern:** Versandkosten separat erfassen, Produktkategorien konsistent in der Datenbank speichern und die Pipeline zwischen Shop und Datenbank reparieren.
