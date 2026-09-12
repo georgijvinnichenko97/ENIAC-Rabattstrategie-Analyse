@@ -43,7 +43,7 @@ Die explorative Phase zeigte erhebliche Probleme bei Datenqualität und Konsiste
 * **Probleme:** Sechs Marken besaßen zwei unterschiedliche Kurz-Codes.
 * **Behandlung:** Inkonsistenz dokumentiert, Codes als Verknüpfungsschlüssel jedoch belassen, da eine eindeutige automatische Zuordnung nicht sicher möglich war.
 
-📉### Kategorisierungsstrategie
+📉## Kategorisierungsstrategie
 Die ursprüngliche `type`-Spalte war numerisch und schwer interpretierbar. Eine neue, umsatzorientierte Kategorisierung wurde per Python-Skript erstellt:
 * **Signale:** Textmuster im Produktnamen (z.B. "iMac") und die ersten drei Buchstaben der SKU (Markencode).
 * **Ziel:** Die Identifikation der 5 umsatzstärksten Kategorien (ca. 55 % des Gesamtumsatzes).
