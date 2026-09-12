@@ -103,7 +103,7 @@ eniac-rabattstrategie/
 
 Das Projekt wurde von Beginn an im Team durchgeführt. Jedes Mitglied führte explorative Analysen zunächst eigenständig durch. In Teambesprechungen wurden die Lösungsansätze verglichen, diskutiert und die jeweils robusteste Methode für das finale Notebook ausgewählt.
 
-⛓️## Limitationen
+⛓️ Limitationen
 * **Datenmenge:** Der Datensatz umfasst nur einen Jahreszyklus.
 * **Fehlende Margen:** Ohne Kostendaten misst die Analyse reinen Umsatz, nicht den Gewinn.
 * **Kausalität:** Ein ursächlicher Zusammenhang zwischen Rabatten und Verkaufsspitzen ist plausibel, statistisch aber durch diesen Datensatz allein nicht zweifelsfrei kausal belegt.
